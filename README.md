@@ -7,6 +7,6 @@ GAME RULES:
 - If you rolled dice with 6, and your last dice was also 6, player looses score
 - The first player to reach 50 points on GLOBAL score wins the game
 
-Technologies used: Javascript (ES5), Hthl, Css.
+Technologies used: Javascript (ES5), Html, Css.
 
 How to start: run "index.html" file.
