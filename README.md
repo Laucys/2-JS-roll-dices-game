@@ -1,4 +1,4 @@
-![](giphy.gif)
+![](preview.gif)
 
 GAME RULES:
 
